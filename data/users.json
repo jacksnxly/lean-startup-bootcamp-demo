@@ -1,0 +1,21 @@
+{
+  "alex": {
+    "name": "Alex", 
+    "location": "Berlin"
+  },
+  "lena": {
+    "name": "Lena S.", 
+    "age": 29, 
+    "handicap": 12, 
+    "availability": "09:00-14:00", 
+    "telegram_handle": "@lena_swing", 
+    "distance_km": 5
+  },
+  "fabio": {
+    "name": "Fabio R.",
+    "hcp": 18,
+    "distance_km": 8,
+    "loves_match_play": "loves a friendly match!",
+    "telegram_handle": "@fabio_golf"
+  }
+}
